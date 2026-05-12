@@ -1,5 +1,5 @@
 /*
-TASK 8 - UTILITY TYPES
+TASK 8 - UTILITY TYPES - PICK, OMIT, RECORD
 
 1. Create a type called User:
    - id: number

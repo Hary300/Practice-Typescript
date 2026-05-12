@@ -1,5 +1,5 @@
 /*
-TASK 6 - MAPPED TYPES
+TASK 6 - UTILITY TYPE - PARTIAL
 
 1. Create a type called User:
    - id: number
